@@ -1,6 +1,6 @@
 # SplitzSMP Minecraft Server
 
-![SplitzSMP Logo](https://imgur.com/gallery/post-bQqdEYD)
+![SplitzSMP Logo](https://imgur.com/78AR2Gr)
 
 Welcome to the SplitzSMP Minecraft Server GitHub repository! This project is dedicated to managing and enhancing our custom SMP experience for all players.
 
